@@ -1,3 +1,8 @@
+#写在前面
+bigsur dw1820a 下载链接
+https://wwe.lanzous.com/irRX3n3wufi
+使用之前需要屏蔽针脚 正面三 反面二
+
 # XiaoXinPro-13-hackintosh
 
 ## Lenovo XiaoXin Pro 13 2019&2020 Hackintosh
