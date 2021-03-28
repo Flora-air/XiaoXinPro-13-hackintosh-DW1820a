@@ -10,6 +10,8 @@
 
 3.去除GUI界面（个人觉得GUI界面掉帧）
 
+4.（好像这个版本有一个 触控板BUG 触控板好像只能轻触点按了 按压似乎没有了效果）
+
 备用下载链接
 
 https://wwe.lanzous.com/iPAa4nejqzc
